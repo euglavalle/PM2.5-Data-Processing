@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "La Valle"
+  given-names: "Eugenio"
+  orcid: "https://orcid.org/0009-0001-0201-0646"
+title: "PM2.5 Data Processing"
+version: 1.0.0
+doi: 10.5281/zenodo.20207792
+date-released: 2026-05-15
+url: "https://github.com/euglavalle/PM2.5-Data-Processing"
