@@ -11,6 +11,8 @@ The other scripts provided, which are called in *main.py*, do the following:
 - *raster_to_edges.py*: compute longitude and latitude edge coordinates from a raster and its transform
 - *spherical_patch_area.py*: compute are of each pixel on spherical surface
 
+If you use this code, I would appreciate you citing it: [![DOI](https://zenodo.org/badge/1239758713.svg)](https://doi.org/10.5281/zenodo.20207792)
+
 ## References
 <a id="1">[1]</a> 
 Aaron van Donkelaar, Melanie S. Hammer, Liam Bindle, Michael Brauer, Jeffery R. Brook, Michael J. Garay, N. Christina Hsu, Olga V. Kalashnikova, Ralph A. Kahn, Colin Lee, Robert C. Levy, Alexei Lyapustin, Andrew M. Sayer and Randall V. Martin (2021). Monthly Global Estimates of Fine Particulate Matter and Their Uncertainty Environmental Science & Technology, 2021, doi:10.1021/acs.est.1c05309. 
